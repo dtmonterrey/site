@@ -1,0 +1,30 @@
+body {
+    background-color: bisque;
+    background-image: url("corrida.jpg");
+    background-blend-mode: color-burn;
+    background-attachment: fixed;
+    font-size: large;
+    font-family: sans-serif;
+    margin: 0 auto;
+    width: 80%;
+}
+
+p {
+    text-align: justify;
+}
+
+.sobremim {
+    background-color: #ffffffcc;
+    padding: 1em;
+}
+
+.sobremim .info dl {
+    display: inline-block;
+    vertical-align: top;
+    width: 66%;
+}
+.sobremim img {
+    text-align: right;
+    display: inline-block;
+    width: 33%;
+}
